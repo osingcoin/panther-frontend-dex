@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from ''
+import { Currency, ETHER, JSBI, TokenAmount } from 'pantherswap-libs/sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from 'osingswap-uikit'
 import CardNav from 'components/CardNav'
